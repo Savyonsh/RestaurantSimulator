@@ -1,6 +1,6 @@
-#include "Action.h"
-#include "Table.h"
-#include "Restaurant.h"
+#include "../headers/Action.h"
+#include "../headers/Table.h"
+#include "../headers/Restaurant.h"
 
 using namespace std;
 

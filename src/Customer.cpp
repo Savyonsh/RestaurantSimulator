@@ -1,5 +1,5 @@
-#include "Customer.h"
-#include "Dish.h"
+#include "../headers/Customer.h"
+#include "../headers/Dish.h"
 
 using namespace std;
 

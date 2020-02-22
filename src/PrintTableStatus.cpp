@@ -1,7 +1,7 @@
-#include "Action.h"
-#include "Table.h"
-#include "Restaurant.h"
-#include "Customer.h"
+#include "../headers/Action.h"
+#include "../headers/Table.h"
+#include "../headers/Restaurant.h"
+#include "../headers/Customer.h"
 #include <iostream>
 #include <vector>
 

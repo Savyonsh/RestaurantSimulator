@@ -1,9 +1,9 @@
-#include "Action.h"
-#include "Table.h"
-#include "Restaurant.h"
+#include "../headers/Action.h"
+#include "../headers/Table.h"
+#include "../headers/Restaurant.h"
 #include <iostream>
 #include <vector>
-#include "Customer.h"
+#include "../headers/Customer.h"
 
 Close::Close(int id) : BaseAction() , tableId(id) {}
 

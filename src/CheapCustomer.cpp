@@ -2,7 +2,7 @@
 // Created by sharon on 2/22/20.
 //
 
-#include "CheapCustomer.h"
+#include "../headers/CheapCustomer.h"
 using namespace std;
 
 CheapCustomer::CheapCustomer(string name, int id): Customer(std::move(name),id),ordered(false) {}

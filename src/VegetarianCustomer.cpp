@@ -2,7 +2,7 @@
 // Created by sharon on 2/22/20.
 //
 
-#include "VegetarianCustomer.h"
+#include "../headers/VegetarianCustomer.h"
 
 using namespace std;
 

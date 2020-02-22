@@ -123,519 +123,6 @@ FinalHW1/fast:
 	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/build
 .PHONY : FinalHW1/fast
 
-AlchoholicCustomer.o: AlchoholicCustomer.cpp.o
-
-.PHONY : AlchoholicCustomer.o
-
-# target to build an object file
-AlchoholicCustomer.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o
-.PHONY : AlchoholicCustomer.cpp.o
-
-AlchoholicCustomer.i: AlchoholicCustomer.cpp.i
-
-.PHONY : AlchoholicCustomer.i
-
-# target to preprocess a source file
-AlchoholicCustomer.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.i
-.PHONY : AlchoholicCustomer.cpp.i
-
-AlchoholicCustomer.s: AlchoholicCustomer.cpp.s
-
-.PHONY : AlchoholicCustomer.s
-
-# target to generate assembly for a file
-AlchoholicCustomer.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.s
-.PHONY : AlchoholicCustomer.cpp.s
-
-BackupRestaurant.o: BackupRestaurant.cpp.o
-
-.PHONY : BackupRestaurant.o
-
-# target to build an object file
-BackupRestaurant.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o
-.PHONY : BackupRestaurant.cpp.o
-
-BackupRestaurant.i: BackupRestaurant.cpp.i
-
-.PHONY : BackupRestaurant.i
-
-# target to preprocess a source file
-BackupRestaurant.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.i
-.PHONY : BackupRestaurant.cpp.i
-
-BackupRestaurant.s: BackupRestaurant.cpp.s
-
-.PHONY : BackupRestaurant.s
-
-# target to generate assembly for a file
-BackupRestaurant.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.s
-.PHONY : BackupRestaurant.cpp.s
-
-BaseAction.o: BaseAction.cpp.o
-
-.PHONY : BaseAction.o
-
-# target to build an object file
-BaseAction.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/BaseAction.cpp.o
-.PHONY : BaseAction.cpp.o
-
-BaseAction.i: BaseAction.cpp.i
-
-.PHONY : BaseAction.i
-
-# target to preprocess a source file
-BaseAction.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/BaseAction.cpp.i
-.PHONY : BaseAction.cpp.i
-
-BaseAction.s: BaseAction.cpp.s
-
-.PHONY : BaseAction.s
-
-# target to generate assembly for a file
-BaseAction.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/BaseAction.cpp.s
-.PHONY : BaseAction.cpp.s
-
-CheapCustomer.o: CheapCustomer.cpp.o
-
-.PHONY : CheapCustomer.o
-
-# target to build an object file
-CheapCustomer.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o
-.PHONY : CheapCustomer.cpp.o
-
-CheapCustomer.i: CheapCustomer.cpp.i
-
-.PHONY : CheapCustomer.i
-
-# target to preprocess a source file
-CheapCustomer.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.i
-.PHONY : CheapCustomer.cpp.i
-
-CheapCustomer.s: CheapCustomer.cpp.s
-
-.PHONY : CheapCustomer.s
-
-# target to generate assembly for a file
-CheapCustomer.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.s
-.PHONY : CheapCustomer.cpp.s
-
-Close.o: Close.cpp.o
-
-.PHONY : Close.o
-
-# target to build an object file
-Close.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Close.cpp.o
-.PHONY : Close.cpp.o
-
-Close.i: Close.cpp.i
-
-.PHONY : Close.i
-
-# target to preprocess a source file
-Close.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Close.cpp.i
-.PHONY : Close.cpp.i
-
-Close.s: Close.cpp.s
-
-.PHONY : Close.s
-
-# target to generate assembly for a file
-Close.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Close.cpp.s
-.PHONY : Close.cpp.s
-
-CloseAll.o: CloseAll.cpp.o
-
-.PHONY : CloseAll.o
-
-# target to build an object file
-CloseAll.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/CloseAll.cpp.o
-.PHONY : CloseAll.cpp.o
-
-CloseAll.i: CloseAll.cpp.i
-
-.PHONY : CloseAll.i
-
-# target to preprocess a source file
-CloseAll.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/CloseAll.cpp.i
-.PHONY : CloseAll.cpp.i
-
-CloseAll.s: CloseAll.cpp.s
-
-.PHONY : CloseAll.s
-
-# target to generate assembly for a file
-CloseAll.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/CloseAll.cpp.s
-.PHONY : CloseAll.cpp.s
-
-Customer.o: Customer.cpp.o
-
-.PHONY : Customer.o
-
-# target to build an object file
-Customer.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Customer.cpp.o
-.PHONY : Customer.cpp.o
-
-Customer.i: Customer.cpp.i
-
-.PHONY : Customer.i
-
-# target to preprocess a source file
-Customer.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Customer.cpp.i
-.PHONY : Customer.cpp.i
-
-Customer.s: Customer.cpp.s
-
-.PHONY : Customer.s
-
-# target to generate assembly for a file
-Customer.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Customer.cpp.s
-.PHONY : Customer.cpp.s
-
-Dish.o: Dish.cpp.o
-
-.PHONY : Dish.o
-
-# target to build an object file
-Dish.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Dish.cpp.o
-.PHONY : Dish.cpp.o
-
-Dish.i: Dish.cpp.i
-
-.PHONY : Dish.i
-
-# target to preprocess a source file
-Dish.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Dish.cpp.i
-.PHONY : Dish.cpp.i
-
-Dish.s: Dish.cpp.s
-
-.PHONY : Dish.s
-
-# target to generate assembly for a file
-Dish.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Dish.cpp.s
-.PHONY : Dish.cpp.s
-
-MoveCustomer.o: MoveCustomer.cpp.o
-
-.PHONY : MoveCustomer.o
-
-# target to build an object file
-MoveCustomer.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o
-.PHONY : MoveCustomer.cpp.o
-
-MoveCustomer.i: MoveCustomer.cpp.i
-
-.PHONY : MoveCustomer.i
-
-# target to preprocess a source file
-MoveCustomer.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.i
-.PHONY : MoveCustomer.cpp.i
-
-MoveCustomer.s: MoveCustomer.cpp.s
-
-.PHONY : MoveCustomer.s
-
-# target to generate assembly for a file
-MoveCustomer.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.s
-.PHONY : MoveCustomer.cpp.s
-
-OpenTable.o: OpenTable.cpp.o
-
-.PHONY : OpenTable.o
-
-# target to build an object file
-OpenTable.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/OpenTable.cpp.o
-.PHONY : OpenTable.cpp.o
-
-OpenTable.i: OpenTable.cpp.i
-
-.PHONY : OpenTable.i
-
-# target to preprocess a source file
-OpenTable.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/OpenTable.cpp.i
-.PHONY : OpenTable.cpp.i
-
-OpenTable.s: OpenTable.cpp.s
-
-.PHONY : OpenTable.s
-
-# target to generate assembly for a file
-OpenTable.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/OpenTable.cpp.s
-.PHONY : OpenTable.cpp.s
-
-Order.o: Order.cpp.o
-
-.PHONY : Order.o
-
-# target to build an object file
-Order.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Order.cpp.o
-.PHONY : Order.cpp.o
-
-Order.i: Order.cpp.i
-
-.PHONY : Order.i
-
-# target to preprocess a source file
-Order.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Order.cpp.i
-.PHONY : Order.cpp.i
-
-Order.s: Order.cpp.s
-
-.PHONY : Order.s
-
-# target to generate assembly for a file
-Order.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Order.cpp.s
-.PHONY : Order.cpp.s
-
-PrintActionsLog.o: PrintActionsLog.cpp.o
-
-.PHONY : PrintActionsLog.o
-
-# target to build an object file
-PrintActionsLog.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o
-.PHONY : PrintActionsLog.cpp.o
-
-PrintActionsLog.i: PrintActionsLog.cpp.i
-
-.PHONY : PrintActionsLog.i
-
-# target to preprocess a source file
-PrintActionsLog.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.i
-.PHONY : PrintActionsLog.cpp.i
-
-PrintActionsLog.s: PrintActionsLog.cpp.s
-
-.PHONY : PrintActionsLog.s
-
-# target to generate assembly for a file
-PrintActionsLog.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.s
-.PHONY : PrintActionsLog.cpp.s
-
-PrintMenu.o: PrintMenu.cpp.o
-
-.PHONY : PrintMenu.o
-
-# target to build an object file
-PrintMenu.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o
-.PHONY : PrintMenu.cpp.o
-
-PrintMenu.i: PrintMenu.cpp.i
-
-.PHONY : PrintMenu.i
-
-# target to preprocess a source file
-PrintMenu.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintMenu.cpp.i
-.PHONY : PrintMenu.cpp.i
-
-PrintMenu.s: PrintMenu.cpp.s
-
-.PHONY : PrintMenu.s
-
-# target to generate assembly for a file
-PrintMenu.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintMenu.cpp.s
-.PHONY : PrintMenu.cpp.s
-
-PrintTableStatus.o: PrintTableStatus.cpp.o
-
-.PHONY : PrintTableStatus.o
-
-# target to build an object file
-PrintTableStatus.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o
-.PHONY : PrintTableStatus.cpp.o
-
-PrintTableStatus.i: PrintTableStatus.cpp.i
-
-.PHONY : PrintTableStatus.i
-
-# target to preprocess a source file
-PrintTableStatus.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.i
-.PHONY : PrintTableStatus.cpp.i
-
-PrintTableStatus.s: PrintTableStatus.cpp.s
-
-.PHONY : PrintTableStatus.s
-
-# target to generate assembly for a file
-PrintTableStatus.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.s
-.PHONY : PrintTableStatus.cpp.s
-
-Restaurant.o: Restaurant.cpp.o
-
-.PHONY : Restaurant.o
-
-# target to build an object file
-Restaurant.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Restaurant.cpp.o
-.PHONY : Restaurant.cpp.o
-
-Restaurant.i: Restaurant.cpp.i
-
-.PHONY : Restaurant.i
-
-# target to preprocess a source file
-Restaurant.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Restaurant.cpp.i
-.PHONY : Restaurant.cpp.i
-
-Restaurant.s: Restaurant.cpp.s
-
-.PHONY : Restaurant.s
-
-# target to generate assembly for a file
-Restaurant.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Restaurant.cpp.s
-.PHONY : Restaurant.cpp.s
-
-RestoreResturant.o: RestoreResturant.cpp.o
-
-.PHONY : RestoreResturant.o
-
-# target to build an object file
-RestoreResturant.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o
-.PHONY : RestoreResturant.cpp.o
-
-RestoreResturant.i: RestoreResturant.cpp.i
-
-.PHONY : RestoreResturant.i
-
-# target to preprocess a source file
-RestoreResturant.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.i
-.PHONY : RestoreResturant.cpp.i
-
-RestoreResturant.s: RestoreResturant.cpp.s
-
-.PHONY : RestoreResturant.s
-
-# target to generate assembly for a file
-RestoreResturant.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.s
-.PHONY : RestoreResturant.cpp.s
-
-SpicyCustomer.o: SpicyCustomer.cpp.o
-
-.PHONY : SpicyCustomer.o
-
-# target to build an object file
-SpicyCustomer.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o
-.PHONY : SpicyCustomer.cpp.o
-
-SpicyCustomer.i: SpicyCustomer.cpp.i
-
-.PHONY : SpicyCustomer.i
-
-# target to preprocess a source file
-SpicyCustomer.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.i
-.PHONY : SpicyCustomer.cpp.i
-
-SpicyCustomer.s: SpicyCustomer.cpp.s
-
-.PHONY : SpicyCustomer.s
-
-# target to generate assembly for a file
-SpicyCustomer.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.s
-.PHONY : SpicyCustomer.cpp.s
-
-Table.o: Table.cpp.o
-
-.PHONY : Table.o
-
-# target to build an object file
-Table.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Table.cpp.o
-.PHONY : Table.cpp.o
-
-Table.i: Table.cpp.i
-
-.PHONY : Table.i
-
-# target to preprocess a source file
-Table.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Table.cpp.i
-.PHONY : Table.cpp.i
-
-Table.s: Table.cpp.s
-
-.PHONY : Table.s
-
-# target to generate assembly for a file
-Table.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/Table.cpp.s
-.PHONY : Table.cpp.s
-
-VegetarianCustomer.o: VegetarianCustomer.cpp.o
-
-.PHONY : VegetarianCustomer.o
-
-# target to build an object file
-VegetarianCustomer.cpp.o:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o
-.PHONY : VegetarianCustomer.cpp.o
-
-VegetarianCustomer.i: VegetarianCustomer.cpp.i
-
-.PHONY : VegetarianCustomer.i
-
-# target to preprocess a source file
-VegetarianCustomer.cpp.i:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.i
-.PHONY : VegetarianCustomer.cpp.i
-
-VegetarianCustomer.s: VegetarianCustomer.cpp.s
-
-.PHONY : VegetarianCustomer.s
-
-# target to generate assembly for a file
-VegetarianCustomer.cpp.s:
-	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.s
-.PHONY : VegetarianCustomer.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -663,6 +150,519 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/AlchoholicCustomer.o: src/AlchoholicCustomer.cpp.o
+
+.PHONY : src/AlchoholicCustomer.o
+
+# target to build an object file
+src/AlchoholicCustomer.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o
+.PHONY : src/AlchoholicCustomer.cpp.o
+
+src/AlchoholicCustomer.i: src/AlchoholicCustomer.cpp.i
+
+.PHONY : src/AlchoholicCustomer.i
+
+# target to preprocess a source file
+src/AlchoholicCustomer.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.i
+.PHONY : src/AlchoholicCustomer.cpp.i
+
+src/AlchoholicCustomer.s: src/AlchoholicCustomer.cpp.s
+
+.PHONY : src/AlchoholicCustomer.s
+
+# target to generate assembly for a file
+src/AlchoholicCustomer.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.s
+.PHONY : src/AlchoholicCustomer.cpp.s
+
+src/BackupRestaurant.o: src/BackupRestaurant.cpp.o
+
+.PHONY : src/BackupRestaurant.o
+
+# target to build an object file
+src/BackupRestaurant.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o
+.PHONY : src/BackupRestaurant.cpp.o
+
+src/BackupRestaurant.i: src/BackupRestaurant.cpp.i
+
+.PHONY : src/BackupRestaurant.i
+
+# target to preprocess a source file
+src/BackupRestaurant.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.i
+.PHONY : src/BackupRestaurant.cpp.i
+
+src/BackupRestaurant.s: src/BackupRestaurant.cpp.s
+
+.PHONY : src/BackupRestaurant.s
+
+# target to generate assembly for a file
+src/BackupRestaurant.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.s
+.PHONY : src/BackupRestaurant.cpp.s
+
+src/BaseAction.o: src/BaseAction.cpp.o
+
+.PHONY : src/BaseAction.o
+
+# target to build an object file
+src/BaseAction.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o
+.PHONY : src/BaseAction.cpp.o
+
+src/BaseAction.i: src/BaseAction.cpp.i
+
+.PHONY : src/BaseAction.i
+
+# target to preprocess a source file
+src/BaseAction.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.i
+.PHONY : src/BaseAction.cpp.i
+
+src/BaseAction.s: src/BaseAction.cpp.s
+
+.PHONY : src/BaseAction.s
+
+# target to generate assembly for a file
+src/BaseAction.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.s
+.PHONY : src/BaseAction.cpp.s
+
+src/CheapCustomer.o: src/CheapCustomer.cpp.o
+
+.PHONY : src/CheapCustomer.o
+
+# target to build an object file
+src/CheapCustomer.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o
+.PHONY : src/CheapCustomer.cpp.o
+
+src/CheapCustomer.i: src/CheapCustomer.cpp.i
+
+.PHONY : src/CheapCustomer.i
+
+# target to preprocess a source file
+src/CheapCustomer.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.i
+.PHONY : src/CheapCustomer.cpp.i
+
+src/CheapCustomer.s: src/CheapCustomer.cpp.s
+
+.PHONY : src/CheapCustomer.s
+
+# target to generate assembly for a file
+src/CheapCustomer.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.s
+.PHONY : src/CheapCustomer.cpp.s
+
+src/Close.o: src/Close.cpp.o
+
+.PHONY : src/Close.o
+
+# target to build an object file
+src/Close.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Close.cpp.o
+.PHONY : src/Close.cpp.o
+
+src/Close.i: src/Close.cpp.i
+
+.PHONY : src/Close.i
+
+# target to preprocess a source file
+src/Close.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Close.cpp.i
+.PHONY : src/Close.cpp.i
+
+src/Close.s: src/Close.cpp.s
+
+.PHONY : src/Close.s
+
+# target to generate assembly for a file
+src/Close.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Close.cpp.s
+.PHONY : src/Close.cpp.s
+
+src/CloseAll.o: src/CloseAll.cpp.o
+
+.PHONY : src/CloseAll.o
+
+# target to build an object file
+src/CloseAll.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o
+.PHONY : src/CloseAll.cpp.o
+
+src/CloseAll.i: src/CloseAll.cpp.i
+
+.PHONY : src/CloseAll.i
+
+# target to preprocess a source file
+src/CloseAll.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.i
+.PHONY : src/CloseAll.cpp.i
+
+src/CloseAll.s: src/CloseAll.cpp.s
+
+.PHONY : src/CloseAll.s
+
+# target to generate assembly for a file
+src/CloseAll.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.s
+.PHONY : src/CloseAll.cpp.s
+
+src/Customer.o: src/Customer.cpp.o
+
+.PHONY : src/Customer.o
+
+# target to build an object file
+src/Customer.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Customer.cpp.o
+.PHONY : src/Customer.cpp.o
+
+src/Customer.i: src/Customer.cpp.i
+
+.PHONY : src/Customer.i
+
+# target to preprocess a source file
+src/Customer.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Customer.cpp.i
+.PHONY : src/Customer.cpp.i
+
+src/Customer.s: src/Customer.cpp.s
+
+.PHONY : src/Customer.s
+
+# target to generate assembly for a file
+src/Customer.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Customer.cpp.s
+.PHONY : src/Customer.cpp.s
+
+src/Dish.o: src/Dish.cpp.o
+
+.PHONY : src/Dish.o
+
+# target to build an object file
+src/Dish.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Dish.cpp.o
+.PHONY : src/Dish.cpp.o
+
+src/Dish.i: src/Dish.cpp.i
+
+.PHONY : src/Dish.i
+
+# target to preprocess a source file
+src/Dish.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Dish.cpp.i
+.PHONY : src/Dish.cpp.i
+
+src/Dish.s: src/Dish.cpp.s
+
+.PHONY : src/Dish.s
+
+# target to generate assembly for a file
+src/Dish.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Dish.cpp.s
+.PHONY : src/Dish.cpp.s
+
+src/MoveCustomer.o: src/MoveCustomer.cpp.o
+
+.PHONY : src/MoveCustomer.o
+
+# target to build an object file
+src/MoveCustomer.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o
+.PHONY : src/MoveCustomer.cpp.o
+
+src/MoveCustomer.i: src/MoveCustomer.cpp.i
+
+.PHONY : src/MoveCustomer.i
+
+# target to preprocess a source file
+src/MoveCustomer.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.i
+.PHONY : src/MoveCustomer.cpp.i
+
+src/MoveCustomer.s: src/MoveCustomer.cpp.s
+
+.PHONY : src/MoveCustomer.s
+
+# target to generate assembly for a file
+src/MoveCustomer.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.s
+.PHONY : src/MoveCustomer.cpp.s
+
+src/OpenTable.o: src/OpenTable.cpp.o
+
+.PHONY : src/OpenTable.o
+
+# target to build an object file
+src/OpenTable.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o
+.PHONY : src/OpenTable.cpp.o
+
+src/OpenTable.i: src/OpenTable.cpp.i
+
+.PHONY : src/OpenTable.i
+
+# target to preprocess a source file
+src/OpenTable.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.i
+.PHONY : src/OpenTable.cpp.i
+
+src/OpenTable.s: src/OpenTable.cpp.s
+
+.PHONY : src/OpenTable.s
+
+# target to generate assembly for a file
+src/OpenTable.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.s
+.PHONY : src/OpenTable.cpp.s
+
+src/Order.o: src/Order.cpp.o
+
+.PHONY : src/Order.o
+
+# target to build an object file
+src/Order.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Order.cpp.o
+.PHONY : src/Order.cpp.o
+
+src/Order.i: src/Order.cpp.i
+
+.PHONY : src/Order.i
+
+# target to preprocess a source file
+src/Order.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Order.cpp.i
+.PHONY : src/Order.cpp.i
+
+src/Order.s: src/Order.cpp.s
+
+.PHONY : src/Order.s
+
+# target to generate assembly for a file
+src/Order.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Order.cpp.s
+.PHONY : src/Order.cpp.s
+
+src/PrintActionsLog.o: src/PrintActionsLog.cpp.o
+
+.PHONY : src/PrintActionsLog.o
+
+# target to build an object file
+src/PrintActionsLog.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o
+.PHONY : src/PrintActionsLog.cpp.o
+
+src/PrintActionsLog.i: src/PrintActionsLog.cpp.i
+
+.PHONY : src/PrintActionsLog.i
+
+# target to preprocess a source file
+src/PrintActionsLog.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.i
+.PHONY : src/PrintActionsLog.cpp.i
+
+src/PrintActionsLog.s: src/PrintActionsLog.cpp.s
+
+.PHONY : src/PrintActionsLog.s
+
+# target to generate assembly for a file
+src/PrintActionsLog.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.s
+.PHONY : src/PrintActionsLog.cpp.s
+
+src/PrintMenu.o: src/PrintMenu.cpp.o
+
+.PHONY : src/PrintMenu.o
+
+# target to build an object file
+src/PrintMenu.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o
+.PHONY : src/PrintMenu.cpp.o
+
+src/PrintMenu.i: src/PrintMenu.cpp.i
+
+.PHONY : src/PrintMenu.i
+
+# target to preprocess a source file
+src/PrintMenu.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.i
+.PHONY : src/PrintMenu.cpp.i
+
+src/PrintMenu.s: src/PrintMenu.cpp.s
+
+.PHONY : src/PrintMenu.s
+
+# target to generate assembly for a file
+src/PrintMenu.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.s
+.PHONY : src/PrintMenu.cpp.s
+
+src/PrintTableStatus.o: src/PrintTableStatus.cpp.o
+
+.PHONY : src/PrintTableStatus.o
+
+# target to build an object file
+src/PrintTableStatus.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o
+.PHONY : src/PrintTableStatus.cpp.o
+
+src/PrintTableStatus.i: src/PrintTableStatus.cpp.i
+
+.PHONY : src/PrintTableStatus.i
+
+# target to preprocess a source file
+src/PrintTableStatus.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.i
+.PHONY : src/PrintTableStatus.cpp.i
+
+src/PrintTableStatus.s: src/PrintTableStatus.cpp.s
+
+.PHONY : src/PrintTableStatus.s
+
+# target to generate assembly for a file
+src/PrintTableStatus.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.s
+.PHONY : src/PrintTableStatus.cpp.s
+
+src/Restaurant.o: src/Restaurant.cpp.o
+
+.PHONY : src/Restaurant.o
+
+# target to build an object file
+src/Restaurant.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o
+.PHONY : src/Restaurant.cpp.o
+
+src/Restaurant.i: src/Restaurant.cpp.i
+
+.PHONY : src/Restaurant.i
+
+# target to preprocess a source file
+src/Restaurant.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.i
+.PHONY : src/Restaurant.cpp.i
+
+src/Restaurant.s: src/Restaurant.cpp.s
+
+.PHONY : src/Restaurant.s
+
+# target to generate assembly for a file
+src/Restaurant.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.s
+.PHONY : src/Restaurant.cpp.s
+
+src/RestoreResturant.o: src/RestoreResturant.cpp.o
+
+.PHONY : src/RestoreResturant.o
+
+# target to build an object file
+src/RestoreResturant.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o
+.PHONY : src/RestoreResturant.cpp.o
+
+src/RestoreResturant.i: src/RestoreResturant.cpp.i
+
+.PHONY : src/RestoreResturant.i
+
+# target to preprocess a source file
+src/RestoreResturant.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.i
+.PHONY : src/RestoreResturant.cpp.i
+
+src/RestoreResturant.s: src/RestoreResturant.cpp.s
+
+.PHONY : src/RestoreResturant.s
+
+# target to generate assembly for a file
+src/RestoreResturant.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.s
+.PHONY : src/RestoreResturant.cpp.s
+
+src/SpicyCustomer.o: src/SpicyCustomer.cpp.o
+
+.PHONY : src/SpicyCustomer.o
+
+# target to build an object file
+src/SpicyCustomer.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o
+.PHONY : src/SpicyCustomer.cpp.o
+
+src/SpicyCustomer.i: src/SpicyCustomer.cpp.i
+
+.PHONY : src/SpicyCustomer.i
+
+# target to preprocess a source file
+src/SpicyCustomer.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.i
+.PHONY : src/SpicyCustomer.cpp.i
+
+src/SpicyCustomer.s: src/SpicyCustomer.cpp.s
+
+.PHONY : src/SpicyCustomer.s
+
+# target to generate assembly for a file
+src/SpicyCustomer.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.s
+.PHONY : src/SpicyCustomer.cpp.s
+
+src/Table.o: src/Table.cpp.o
+
+.PHONY : src/Table.o
+
+# target to build an object file
+src/Table.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Table.cpp.o
+.PHONY : src/Table.cpp.o
+
+src/Table.i: src/Table.cpp.i
+
+.PHONY : src/Table.i
+
+# target to preprocess a source file
+src/Table.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Table.cpp.i
+.PHONY : src/Table.cpp.i
+
+src/Table.s: src/Table.cpp.s
+
+.PHONY : src/Table.s
+
+# target to generate assembly for a file
+src/Table.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/Table.cpp.s
+.PHONY : src/Table.cpp.s
+
+src/VegetarianCustomer.o: src/VegetarianCustomer.cpp.o
+
+.PHONY : src/VegetarianCustomer.o
+
+# target to build an object file
+src/VegetarianCustomer.cpp.o:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o
+.PHONY : src/VegetarianCustomer.cpp.o
+
+src/VegetarianCustomer.i: src/VegetarianCustomer.cpp.i
+
+.PHONY : src/VegetarianCustomer.i
+
+# target to preprocess a source file
+src/VegetarianCustomer.cpp.i:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.i
+.PHONY : src/VegetarianCustomer.cpp.i
+
+src/VegetarianCustomer.s: src/VegetarianCustomer.cpp.s
+
+.PHONY : src/VegetarianCustomer.s
+
+# target to generate assembly for a file
+src/VegetarianCustomer.cpp.s:
+	$(MAKE) -f CMakeFiles/FinalHW1.dir/build.make CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.s
+.PHONY : src/VegetarianCustomer.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -672,66 +672,66 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... FinalHW1"
 	@echo "... edit_cache"
-	@echo "... AlchoholicCustomer.o"
-	@echo "... AlchoholicCustomer.i"
-	@echo "... AlchoholicCustomer.s"
-	@echo "... BackupRestaurant.o"
-	@echo "... BackupRestaurant.i"
-	@echo "... BackupRestaurant.s"
-	@echo "... BaseAction.o"
-	@echo "... BaseAction.i"
-	@echo "... BaseAction.s"
-	@echo "... CheapCustomer.o"
-	@echo "... CheapCustomer.i"
-	@echo "... CheapCustomer.s"
-	@echo "... Close.o"
-	@echo "... Close.i"
-	@echo "... Close.s"
-	@echo "... CloseAll.o"
-	@echo "... CloseAll.i"
-	@echo "... CloseAll.s"
-	@echo "... Customer.o"
-	@echo "... Customer.i"
-	@echo "... Customer.s"
-	@echo "... Dish.o"
-	@echo "... Dish.i"
-	@echo "... Dish.s"
-	@echo "... MoveCustomer.o"
-	@echo "... MoveCustomer.i"
-	@echo "... MoveCustomer.s"
-	@echo "... OpenTable.o"
-	@echo "... OpenTable.i"
-	@echo "... OpenTable.s"
-	@echo "... Order.o"
-	@echo "... Order.i"
-	@echo "... Order.s"
-	@echo "... PrintActionsLog.o"
-	@echo "... PrintActionsLog.i"
-	@echo "... PrintActionsLog.s"
-	@echo "... PrintMenu.o"
-	@echo "... PrintMenu.i"
-	@echo "... PrintMenu.s"
-	@echo "... PrintTableStatus.o"
-	@echo "... PrintTableStatus.i"
-	@echo "... PrintTableStatus.s"
-	@echo "... Restaurant.o"
-	@echo "... Restaurant.i"
-	@echo "... Restaurant.s"
-	@echo "... RestoreResturant.o"
-	@echo "... RestoreResturant.i"
-	@echo "... RestoreResturant.s"
-	@echo "... SpicyCustomer.o"
-	@echo "... SpicyCustomer.i"
-	@echo "... SpicyCustomer.s"
-	@echo "... Table.o"
-	@echo "... Table.i"
-	@echo "... Table.s"
-	@echo "... VegetarianCustomer.o"
-	@echo "... VegetarianCustomer.i"
-	@echo "... VegetarianCustomer.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... src/AlchoholicCustomer.o"
+	@echo "... src/AlchoholicCustomer.i"
+	@echo "... src/AlchoholicCustomer.s"
+	@echo "... src/BackupRestaurant.o"
+	@echo "... src/BackupRestaurant.i"
+	@echo "... src/BackupRestaurant.s"
+	@echo "... src/BaseAction.o"
+	@echo "... src/BaseAction.i"
+	@echo "... src/BaseAction.s"
+	@echo "... src/CheapCustomer.o"
+	@echo "... src/CheapCustomer.i"
+	@echo "... src/CheapCustomer.s"
+	@echo "... src/Close.o"
+	@echo "... src/Close.i"
+	@echo "... src/Close.s"
+	@echo "... src/CloseAll.o"
+	@echo "... src/CloseAll.i"
+	@echo "... src/CloseAll.s"
+	@echo "... src/Customer.o"
+	@echo "... src/Customer.i"
+	@echo "... src/Customer.s"
+	@echo "... src/Dish.o"
+	@echo "... src/Dish.i"
+	@echo "... src/Dish.s"
+	@echo "... src/MoveCustomer.o"
+	@echo "... src/MoveCustomer.i"
+	@echo "... src/MoveCustomer.s"
+	@echo "... src/OpenTable.o"
+	@echo "... src/OpenTable.i"
+	@echo "... src/OpenTable.s"
+	@echo "... src/Order.o"
+	@echo "... src/Order.i"
+	@echo "... src/Order.s"
+	@echo "... src/PrintActionsLog.o"
+	@echo "... src/PrintActionsLog.i"
+	@echo "... src/PrintActionsLog.s"
+	@echo "... src/PrintMenu.o"
+	@echo "... src/PrintMenu.i"
+	@echo "... src/PrintMenu.s"
+	@echo "... src/PrintTableStatus.o"
+	@echo "... src/PrintTableStatus.i"
+	@echo "... src/PrintTableStatus.s"
+	@echo "... src/Restaurant.o"
+	@echo "... src/Restaurant.i"
+	@echo "... src/Restaurant.s"
+	@echo "... src/RestoreResturant.o"
+	@echo "... src/RestoreResturant.i"
+	@echo "... src/RestoreResturant.s"
+	@echo "... src/SpicyCustomer.o"
+	@echo "... src/SpicyCustomer.i"
+	@echo "... src/SpicyCustomer.s"
+	@echo "... src/Table.o"
+	@echo "... src/Table.i"
+	@echo "... src/Table.s"
+	@echo "... src/VegetarianCustomer.o"
+	@echo "... src/VegetarianCustomer.i"
+	@echo "... src/VegetarianCustomer.s"
 .PHONY : help
 
 

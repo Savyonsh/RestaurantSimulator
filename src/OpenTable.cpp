@@ -1,10 +1,10 @@
-#include "Action.h"
-#include "Table.h"
-#include "Restaurant.h"
-#include "VegetarianCustomer.h"
-#include "AlchoholicCustomer.h"
-#include "CheapCustomer.h"
-#include "SpicyCustomer.h"
+#include "../headers/Action.h"
+#include "../headers/Table.h"
+#include "../headers/Restaurant.h"
+#include "../headers/VegetarianCustomer.h"
+#include "../headers/AlchoholicCustomer.h"
+#include "../headers/CheapCustomer.h"
+#include "../headers/SpicyCustomer.h"
 #include <vector>
 #include <iostream>
 

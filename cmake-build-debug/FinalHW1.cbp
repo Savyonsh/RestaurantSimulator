@@ -84,88 +84,76 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.cpp">
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/headers/AlchoholicCustomer.h">
 			<Option target="FinalHW1"/>
 		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.h">
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/headers/CheapCustomer.h">
 			<Option target="FinalHW1"/>
 		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/BackupRestaurant.cpp">
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/headers/SpicyCustomer.h">
 			<Option target="FinalHW1"/>
 		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/BaseAction.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.h">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Close.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CloseAll.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/MoveCustomer.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/OpenTable.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Order.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/PrintActionsLog.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/PrintMenu.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/PrintTableStatus.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.h">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/RestoreResturant.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.h">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Table.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Table.h">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.cpp">
-			<Option target="FinalHW1"/>
-		</Unit>
-		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.h">
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/headers/VegetarianCustomer.h">
 			<Option target="FinalHW1"/>
 		</Unit>
 		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/main.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/AlchoholicCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/BackupRestaurant.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/BaseAction.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/CheapCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/Close.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/CloseAll.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/Customer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/Dish.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/MoveCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/OpenTable.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/Order.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintActionsLog.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintMenu.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintTableStatus.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/Restaurant.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/RestoreResturant.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/SpicyCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/Table.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/src/VegetarianCustomer.cpp">
 			<Option target="FinalHW1"/>
 		</Unit>
 		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CMakeLists.txt">

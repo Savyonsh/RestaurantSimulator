@@ -2,7 +2,7 @@
 // Created by sharon on 2/22/20.
 //
 
-#include "SpicyCustomer.h"
+#include "../headers/SpicyCustomer.h"
 
 using namespace std;
 

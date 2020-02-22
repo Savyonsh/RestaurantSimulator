@@ -1,9 +1,9 @@
 #include <iostream>
-#include "Table.h"
-#include "AlchoholicCustomer.h"
-#include "SpicyCustomer.h"
-#include "CheapCustomer.h"
-#include "VegetarianCustomer.h"
+#include "../headers/Table.h"
+#include "../headers/AlchoholicCustomer.h"
+#include "../headers/SpicyCustomer.h"
+#include "../headers/CheapCustomer.h"
+#include "../headers/VegetarianCustomer.h"
 #include <vector>
 
 using namespace std;

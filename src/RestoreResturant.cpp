@@ -1,5 +1,5 @@
-#include "Restaurant.h"
-#include "Action.h"
+#include "../headers/Restaurant.h"
+#include "../headers/Action.h"
 
 extern Restaurant* backup;
 

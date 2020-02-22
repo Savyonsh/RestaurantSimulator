@@ -1,7 +1,7 @@
-#include "Action.h"
-#include "Table.h"
-#include "Restaurant.h"
-#include "Customer.h"
+#include "../headers/Action.h"
+#include "../headers/Table.h"
+#include "../headers/Restaurant.h"
+#include "../headers/Customer.h"
 
 using namespace std;
 MoveCustomer::MoveCustomer(int src, int dst, int customerId) : BaseAction(), srcTable(src), dstTable(dst), id(customerId) {}

@@ -1,5 +1,5 @@
-#include "Action.h"
-#include "Restaurant.h"
+#include "../headers/Action.h"
+#include "../headers/Restaurant.h"
 #include "typeinfo"
 #include <iostream>
 #include <vector>
