@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FinalHW1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FinalHW1">
+				<Option output="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/FinalHW1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 FinalHW1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FinalHW1/fast">
+				<Option output="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/FinalHW1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 FinalHW1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/sharon/Workspace/C++\ Projects/FinalHW1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/BackupRestaurant.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/BaseAction.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Close.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CloseAll.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/MoveCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/OpenTable.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Order.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/PrintActionsLog.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/PrintMenu.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/PrintTableStatus.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/RestoreResturant.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Table.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/Table.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.h">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/main.cpp">
+			<Option target="FinalHW1"/>
+		</Unit>
+		<Unit filename="/home/sharon/Workspace/C++ Projects/FinalHW1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

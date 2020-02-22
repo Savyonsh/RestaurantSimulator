@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/Action.h
+string
+-
+iostream
+-
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.h
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.h
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+vector
+-
+string
+-
+Dish.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h
+string
+-
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.cpp
+Restaurant.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.h
+Dish.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h
+Action.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Action.h
+Table.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Table.h
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+AlchoholicCustomer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.h
+VegetarianCustomer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.h
+CheapCustomer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.h
+SpicyCustomer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.h
+iostream
+-
+fstream
+-
+sstream
+-
+memory
+-
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.h
+vector
+-
+string
+-
+Dish.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h
+Table.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Table.h
+Action.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Action.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.h
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/Table.h
+vector
+-
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+Dish.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.h
+
+/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.h
+Customer.h
+/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.h
+
