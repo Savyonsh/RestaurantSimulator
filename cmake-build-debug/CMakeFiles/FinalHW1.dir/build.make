@@ -57,200 +57,200 @@ include CMakeFiles/FinalHW1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/FinalHW1.dir/flags.make
 
-CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o: ../BackupRestaurant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/BackupRestaurant.cpp"
+CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o: ../src/BackupRestaurant.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/BackupRestaurant.cpp"
 
-CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/BackupRestaurant.cpp" > CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.i
+CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/BackupRestaurant.cpp" > CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.i
 
-CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/BackupRestaurant.cpp" -o CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.s
+CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/BackupRestaurant.cpp" -o CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.s
 
-CMakeFiles/FinalHW1.dir/BaseAction.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/BaseAction.cpp.o: ../BaseAction.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FinalHW1.dir/BaseAction.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/BaseAction.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/BaseAction.cpp"
+CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o: ../src/BaseAction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/BaseAction.cpp"
 
-CMakeFiles/FinalHW1.dir/BaseAction.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/BaseAction.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/BaseAction.cpp" > CMakeFiles/FinalHW1.dir/BaseAction.cpp.i
+CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/BaseAction.cpp" > CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.i
 
-CMakeFiles/FinalHW1.dir/BaseAction.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/BaseAction.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/BaseAction.cpp" -o CMakeFiles/FinalHW1.dir/BaseAction.cpp.s
+CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/BaseAction.cpp" -o CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.s
 
-CMakeFiles/FinalHW1.dir/Close.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/Close.cpp.o: ../Close.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FinalHW1.dir/Close.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/Close.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/Close.cpp"
+CMakeFiles/FinalHW1.dir/src/Close.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/Close.cpp.o: ../src/Close.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/FinalHW1.dir/src/Close.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/Close.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Close.cpp"
 
-CMakeFiles/FinalHW1.dir/Close.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/Close.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/Close.cpp" > CMakeFiles/FinalHW1.dir/Close.cpp.i
+CMakeFiles/FinalHW1.dir/src/Close.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/Close.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Close.cpp" > CMakeFiles/FinalHW1.dir/src/Close.cpp.i
 
-CMakeFiles/FinalHW1.dir/Close.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/Close.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/Close.cpp" -o CMakeFiles/FinalHW1.dir/Close.cpp.s
+CMakeFiles/FinalHW1.dir/src/Close.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/Close.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Close.cpp" -o CMakeFiles/FinalHW1.dir/src/Close.cpp.s
 
-CMakeFiles/FinalHW1.dir/CloseAll.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/CloseAll.cpp.o: ../CloseAll.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/FinalHW1.dir/CloseAll.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/CloseAll.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/CloseAll.cpp"
+CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o: ../src/CloseAll.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/CloseAll.cpp"
 
-CMakeFiles/FinalHW1.dir/CloseAll.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/CloseAll.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/CloseAll.cpp" > CMakeFiles/FinalHW1.dir/CloseAll.cpp.i
+CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/CloseAll.cpp" > CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.i
 
-CMakeFiles/FinalHW1.dir/CloseAll.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/CloseAll.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/CloseAll.cpp" -o CMakeFiles/FinalHW1.dir/CloseAll.cpp.s
+CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/CloseAll.cpp" -o CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.s
 
-CMakeFiles/FinalHW1.dir/Customer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/Customer.cpp.o: ../Customer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FinalHW1.dir/Customer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/Customer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.cpp"
+CMakeFiles/FinalHW1.dir/src/Customer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/Customer.cpp.o: ../src/Customer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FinalHW1.dir/src/Customer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/Customer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Customer.cpp"
 
-CMakeFiles/FinalHW1.dir/Customer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/Customer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.cpp" > CMakeFiles/FinalHW1.dir/Customer.cpp.i
+CMakeFiles/FinalHW1.dir/src/Customer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/Customer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Customer.cpp" > CMakeFiles/FinalHW1.dir/src/Customer.cpp.i
 
-CMakeFiles/FinalHW1.dir/Customer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/Customer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/Customer.cpp" -o CMakeFiles/FinalHW1.dir/Customer.cpp.s
+CMakeFiles/FinalHW1.dir/src/Customer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/Customer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Customer.cpp" -o CMakeFiles/FinalHW1.dir/src/Customer.cpp.s
 
-CMakeFiles/FinalHW1.dir/Dish.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/Dish.cpp.o: ../Dish.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/FinalHW1.dir/Dish.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/Dish.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.cpp"
+CMakeFiles/FinalHW1.dir/src/Dish.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/Dish.cpp.o: ../src/Dish.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/FinalHW1.dir/src/Dish.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/Dish.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Dish.cpp"
 
-CMakeFiles/FinalHW1.dir/Dish.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/Dish.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.cpp" > CMakeFiles/FinalHW1.dir/Dish.cpp.i
+CMakeFiles/FinalHW1.dir/src/Dish.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/Dish.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Dish.cpp" > CMakeFiles/FinalHW1.dir/src/Dish.cpp.i
 
-CMakeFiles/FinalHW1.dir/Dish.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/Dish.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/Dish.cpp" -o CMakeFiles/FinalHW1.dir/Dish.cpp.s
+CMakeFiles/FinalHW1.dir/src/Dish.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/Dish.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Dish.cpp" -o CMakeFiles/FinalHW1.dir/src/Dish.cpp.s
 
-CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o: ../MoveCustomer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/MoveCustomer.cpp"
+CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o: ../src/MoveCustomer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/MoveCustomer.cpp"
 
-CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/MoveCustomer.cpp" > CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.i
+CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/MoveCustomer.cpp" > CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.i
 
-CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/MoveCustomer.cpp" -o CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.s
+CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/MoveCustomer.cpp" -o CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.s
 
-CMakeFiles/FinalHW1.dir/OpenTable.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/OpenTable.cpp.o: ../OpenTable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/FinalHW1.dir/OpenTable.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/OpenTable.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/OpenTable.cpp"
+CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o: ../src/OpenTable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/OpenTable.cpp"
 
-CMakeFiles/FinalHW1.dir/OpenTable.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/OpenTable.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/OpenTable.cpp" > CMakeFiles/FinalHW1.dir/OpenTable.cpp.i
+CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/OpenTable.cpp" > CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.i
 
-CMakeFiles/FinalHW1.dir/OpenTable.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/OpenTable.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/OpenTable.cpp" -o CMakeFiles/FinalHW1.dir/OpenTable.cpp.s
+CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/OpenTable.cpp" -o CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.s
 
-CMakeFiles/FinalHW1.dir/Order.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/Order.cpp.o: ../Order.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/FinalHW1.dir/Order.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/Order.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/Order.cpp"
+CMakeFiles/FinalHW1.dir/src/Order.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/Order.cpp.o: ../src/Order.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/FinalHW1.dir/src/Order.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/Order.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Order.cpp"
 
-CMakeFiles/FinalHW1.dir/Order.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/Order.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/Order.cpp" > CMakeFiles/FinalHW1.dir/Order.cpp.i
+CMakeFiles/FinalHW1.dir/src/Order.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/Order.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Order.cpp" > CMakeFiles/FinalHW1.dir/src/Order.cpp.i
 
-CMakeFiles/FinalHW1.dir/Order.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/Order.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/Order.cpp" -o CMakeFiles/FinalHW1.dir/Order.cpp.s
+CMakeFiles/FinalHW1.dir/src/Order.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/Order.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Order.cpp" -o CMakeFiles/FinalHW1.dir/src/Order.cpp.s
 
-CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o: ../PrintActionsLog.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintActionsLog.cpp"
+CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o: ../src/PrintActionsLog.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintActionsLog.cpp"
 
-CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintActionsLog.cpp" > CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.i
+CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintActionsLog.cpp" > CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.i
 
-CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintActionsLog.cpp" -o CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.s
+CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintActionsLog.cpp" -o CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.s
 
-CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o: ../PrintTableStatus.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintTableStatus.cpp"
+CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o: ../src/PrintTableStatus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintTableStatus.cpp"
 
-CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintTableStatus.cpp" > CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.i
+CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintTableStatus.cpp" > CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.i
 
-CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintTableStatus.cpp" -o CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.s
+CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintTableStatus.cpp" -o CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.s
 
-CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o: ../PrintMenu.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintMenu.cpp"
+CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o: ../src/PrintMenu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintMenu.cpp"
 
-CMakeFiles/FinalHW1.dir/PrintMenu.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/PrintMenu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintMenu.cpp" > CMakeFiles/FinalHW1.dir/PrintMenu.cpp.i
+CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintMenu.cpp" > CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.i
 
-CMakeFiles/FinalHW1.dir/PrintMenu.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/PrintMenu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/PrintMenu.cpp" -o CMakeFiles/FinalHW1.dir/PrintMenu.cpp.s
+CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/PrintMenu.cpp" -o CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.s
 
-CMakeFiles/FinalHW1.dir/Restaurant.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/Restaurant.cpp.o: ../Restaurant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FinalHW1.dir/Restaurant.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/Restaurant.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.cpp"
+CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o: ../src/Restaurant.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Restaurant.cpp"
 
-CMakeFiles/FinalHW1.dir/Restaurant.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/Restaurant.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.cpp" > CMakeFiles/FinalHW1.dir/Restaurant.cpp.i
+CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Restaurant.cpp" > CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.i
 
-CMakeFiles/FinalHW1.dir/Restaurant.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/Restaurant.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/Restaurant.cpp" -o CMakeFiles/FinalHW1.dir/Restaurant.cpp.s
+CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Restaurant.cpp" -o CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.s
 
-CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o: ../RestoreResturant.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/RestoreResturant.cpp"
+CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o: ../src/RestoreResturant.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/RestoreResturant.cpp"
 
-CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/RestoreResturant.cpp" > CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.i
+CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/RestoreResturant.cpp" > CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.i
 
-CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/RestoreResturant.cpp" -o CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.s
+CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/RestoreResturant.cpp" -o CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.s
 
-CMakeFiles/FinalHW1.dir/Table.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/Table.cpp.o: ../Table.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/FinalHW1.dir/Table.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/Table.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/Table.cpp"
+CMakeFiles/FinalHW1.dir/src/Table.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/Table.cpp.o: ../src/Table.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/FinalHW1.dir/src/Table.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/Table.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Table.cpp"
 
-CMakeFiles/FinalHW1.dir/Table.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/Table.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/Table.cpp" > CMakeFiles/FinalHW1.dir/Table.cpp.i
+CMakeFiles/FinalHW1.dir/src/Table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/Table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Table.cpp" > CMakeFiles/FinalHW1.dir/src/Table.cpp.i
 
-CMakeFiles/FinalHW1.dir/Table.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/Table.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/Table.cpp" -o CMakeFiles/FinalHW1.dir/Table.cpp.s
+CMakeFiles/FinalHW1.dir/src/Table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/Table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/Table.cpp" -o CMakeFiles/FinalHW1.dir/src/Table.cpp.s
 
 CMakeFiles/FinalHW1.dir/main.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
 CMakeFiles/FinalHW1.dir/main.cpp.o: ../main.cpp
@@ -265,104 +265,104 @@ CMakeFiles/FinalHW1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/main.cpp" -o CMakeFiles/FinalHW1.dir/main.cpp.s
 
-CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o: ../AlchoholicCustomer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.cpp"
+CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o: ../src/AlchoholicCustomer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/AlchoholicCustomer.cpp"
 
-CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.cpp" > CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.i
+CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/AlchoholicCustomer.cpp" > CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.i
 
-CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/AlchoholicCustomer.cpp" -o CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.s
+CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/AlchoholicCustomer.cpp" -o CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.s
 
-CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o: ../SpicyCustomer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.cpp"
+CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o: ../src/SpicyCustomer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/SpicyCustomer.cpp"
 
-CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.cpp" > CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.i
+CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/SpicyCustomer.cpp" > CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.i
 
-CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/SpicyCustomer.cpp" -o CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.s
+CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/SpicyCustomer.cpp" -o CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.s
 
-CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o: ../CheapCustomer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.cpp"
+CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o: ../src/CheapCustomer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/CheapCustomer.cpp"
 
-CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.cpp" > CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.i
+CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/CheapCustomer.cpp" > CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.i
 
-CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/CheapCustomer.cpp" -o CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.s
+CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/CheapCustomer.cpp" -o CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.s
 
-CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
-CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o: ../VegetarianCustomer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.cpp"
+CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o: CMakeFiles/FinalHW1.dir/flags.make
+CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o: ../src/VegetarianCustomer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o -c "/home/sharon/Workspace/C++ Projects/FinalHW1/src/VegetarianCustomer.cpp"
 
-CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.cpp" > CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.i
+CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/sharon/Workspace/C++ Projects/FinalHW1/src/VegetarianCustomer.cpp" > CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.i
 
-CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/VegetarianCustomer.cpp" -o CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.s
+CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/sharon/Workspace/C++ Projects/FinalHW1/src/VegetarianCustomer.cpp" -o CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.s
 
 # Object files for target FinalHW1
 FinalHW1_OBJECTS = \
-"CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o" \
-"CMakeFiles/FinalHW1.dir/BaseAction.cpp.o" \
-"CMakeFiles/FinalHW1.dir/Close.cpp.o" \
-"CMakeFiles/FinalHW1.dir/CloseAll.cpp.o" \
-"CMakeFiles/FinalHW1.dir/Customer.cpp.o" \
-"CMakeFiles/FinalHW1.dir/Dish.cpp.o" \
-"CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o" \
-"CMakeFiles/FinalHW1.dir/OpenTable.cpp.o" \
-"CMakeFiles/FinalHW1.dir/Order.cpp.o" \
-"CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o" \
-"CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o" \
-"CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o" \
-"CMakeFiles/FinalHW1.dir/Restaurant.cpp.o" \
-"CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o" \
-"CMakeFiles/FinalHW1.dir/Table.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/Close.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/Customer.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/Dish.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/Order.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/Table.cpp.o" \
 "CMakeFiles/FinalHW1.dir/main.cpp.o" \
-"CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o" \
-"CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o" \
-"CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o" \
-"CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o"
+"CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o" \
+"CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o"
 
 # External object files for target FinalHW1
 FinalHW1_EXTERNAL_OBJECTS =
 
-FinalHW1: CMakeFiles/FinalHW1.dir/BackupRestaurant.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/BaseAction.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/Close.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/CloseAll.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/Customer.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/Dish.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/MoveCustomer.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/OpenTable.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/Order.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/PrintActionsLog.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/PrintTableStatus.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/PrintMenu.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/Restaurant.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/RestoreResturant.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/Table.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/BackupRestaurant.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/BaseAction.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/Close.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/CloseAll.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/Customer.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/Dish.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/MoveCustomer.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/OpenTable.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/Order.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/PrintActionsLog.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/PrintTableStatus.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/PrintMenu.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/Restaurant.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/RestoreResturant.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/Table.cpp.o
 FinalHW1: CMakeFiles/FinalHW1.dir/main.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/AlchoholicCustomer.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/SpicyCustomer.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/CheapCustomer.cpp.o
-FinalHW1: CMakeFiles/FinalHW1.dir/VegetarianCustomer.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/AlchoholicCustomer.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/SpicyCustomer.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/CheapCustomer.cpp.o
+FinalHW1: CMakeFiles/FinalHW1.dir/src/VegetarianCustomer.cpp.o
 FinalHW1: CMakeFiles/FinalHW1.dir/build.make
 FinalHW1: CMakeFiles/FinalHW1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/sharon/Workspace/C++ Projects/FinalHW1/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable FinalHW1"
